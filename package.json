@@ -1,0 +1,13 @@
+{
+  "name": "weather_sweater",
+  "version": "1.0.0",
+  "description": "restful express api for roadtrip planning",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rrabinovitch",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
